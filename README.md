@@ -6,5 +6,3 @@
 I'm a Software Engineer focused on web3, build products in ReactJS, aiming for software quality and best practices.
 
 - :mailbox: contact me: cleysonwebdev.gmail.com
-- My nft collection: https://campfire.exchange/gallery/kurei_darkside
-- My wallet: 0x323aAC6394eeEa0a5A72DFA1e68E18f2a7c9E606
